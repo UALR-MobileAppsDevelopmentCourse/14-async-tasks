@@ -19,11 +19,6 @@ release/
 .gradle/
 build/
 
-# Gradle wrapper
-gradlew
-gradlew.bat
-gradle/
-
 # Local configuration file (sdk path, etc)
 local.properties
 
